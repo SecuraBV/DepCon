@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Secura.WkpiaNDAsXZNECInETbZVIYAAYQlai" Version="1.0.0" />
+    <PackageReference Include="SecurityLogger" Version="1.0.0" />
   </ItemGroup>
 
 </Project>
